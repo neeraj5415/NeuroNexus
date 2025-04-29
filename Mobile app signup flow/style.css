@@ -1,0 +1,50 @@
+body{
+background-color: aqua;
+}
+.skipbtn{
+    position: relative;
+    left: 70%;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 1rem;
+    color: white;
+    background-color: black;
+}
+.mainheading{
+    text-align: center;
+}
+.subheading{
+    text-align: center;
+}
+img {
+   position: relative;
+   height: 20rem;
+   left: auto;
+}
+.starting{
+    padding: 5px;
+    position: relative;
+    left: 30%;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: white;
+    background-color: black;
+}
+.pera{
+    text-align: center;
+    font-size: large;
+}
+.login{
+    padding: 5px;
+    position: relative;
+    left: 40%;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: white;
+    background-color: black;
+}

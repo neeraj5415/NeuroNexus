@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(25, 147, 151);
+    background-attachment: scroll;
+}
+.yourimg{
+    margin-left: 8.5rem;
+    height: 5rem;
+    width: 5rem;
+    border: 0.5rem;
+    border-radius: 50%;
+}
+.imgheading{
+    margin-left: 3.5rem;
+}
+#signbtn{
+    margin-left: 7.5rem;
+    background-color: aqua;
+    width: 8rem;
+    border: none;
+}
+.form-label{
+    margin-left: 1rem;
+}
+.form-control{
+    margin-left: 3rem;
+}
+.form-select{
+    margin-left: 3rem;
+}

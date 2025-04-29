@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(25, 147, 151);
+}
+.heading{
+    text-align: center;
+}
+.col-form-label{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.form-control{
+    margin-top: 1rem;
+    margin-left: 2.5rem;
+}
+.col-12{
+    margin-top: 1rem;
+    margin-left: 2.5rem; 
+}
+#logbtn{
+    position: relative;
+    margin-top: 2rem;
+    left: 36%;
+    background-color: aqua;
+    width: 7rem;
+}
+.pera{
+    margin-top: 3rem;
+    margin-left: 10rem;
+}.btn-primary{
+    background-color: aqua;
+    position: relative;
+    left: 18%;
+    width: 17rem;
+}
