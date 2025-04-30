@@ -1,0 +1,15 @@
+
+body {
+  background-color: #f6bdbd; /* Page background color */
+}
+
+.form {
+  position: absolute;
+  width: 50vw;
+  background-color: rgb(188, 213, 181);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 50px 50px 100px rgba(9, 9, 9, 0.1);
+}
+  
+  
